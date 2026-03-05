@@ -1,0 +1,10 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+.terraform/
+*.tfstate
+*.tfstate.backup
+.pytest_cache/
+coverage/
